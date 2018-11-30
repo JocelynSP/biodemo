@@ -1,4 +1,5 @@
 [![travis](https://travis-ci.org/JocelynSP/biodemo.svg?branch=master)](https://travis-ci.org/JocelynSP/biodemo)
+[![codecov](https://codecov.io/github/JocelynSP/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/JocelynSP/biodemo)
 
 # Overview 
 
